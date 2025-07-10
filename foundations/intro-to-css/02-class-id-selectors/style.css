@@ -1,0 +1,16 @@
+.shaded {
+    background-color: #fdb0c0;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+.enlarged {
+    font-size: 24px;
+}
+#shaded-green {
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
+#blue-big {
+    font-size: 36px;
+    color: rgb(0,0,255);
+}
