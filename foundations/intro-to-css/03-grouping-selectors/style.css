@@ -1,0 +1,11 @@
+.clickable {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+.positive {
+    background-color: black;
+    color: white;
+}
+.negative {
+    background-color: yellow;
+}
